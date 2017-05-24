@@ -2,6 +2,9 @@
   float: right;
   text-align: center;
   background-color: pink;
+  border: 2px solid purple;
+  padding: 4px;
+  margin: 12px;
 }
 .column {
   width: 300px;
@@ -11,4 +14,13 @@
   float: right;
   text-align: center;
   background-color: orange;
+  border: 5px solid green;
+  padding: 4px
+}
+.image {
+  padding: 16px;
+}
+
+body {
+  background-color: plum; 
 }
