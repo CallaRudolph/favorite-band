@@ -1,0 +1,14 @@
+.sidebar {
+  float: right;
+  text-align: center;
+  background-color: pink;
+}
+.column {
+  width: 300px;
+  float: left;
+}
+.sidebar1 {
+  float: right;
+  text-align: center;
+  background-color: orange;
+}
